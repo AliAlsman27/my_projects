@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm ALI ALSMAN AHMED.
 
-I'm a **Software Developer** specializing in **Embedded Linux** and **Artificial Intelligence**.  
+I'm a **Software Developer** specializing in **IOT** and **Artificial Intelligence**.  
 I build things that run close to the metal, talk to sensors, and sometimes even think for themselves 🤖.
 
 ---
